@@ -5,9 +5,11 @@
 
 I'm a __Data Analyst__ with __3+ years of experience__ and expertise in Marketing Analytics, Product Strategy and requirements gathering, and a proven ability to work with cross-functional teams, streamline workflows and communicate technical findings to stakeholders
 
+
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0Ym4wMzVoZjVqc3dvdjdhc3NheWViMnBhdHhwbGlvdzB0bTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif)" alt="GIF" width="40%" height="auto">
-</p> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E0Ym4wMzVoZjVqc3dvdjdhc3NheWViMnBhdHhwbGlvdzB0bTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" alt="Exciting Animation" />
+</p>
+
 
 <h2>  About Me 👨‍🎓: </h2>
 
