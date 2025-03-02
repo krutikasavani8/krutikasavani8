@@ -22,35 +22,32 @@ I'm a __Data Analyst__ with __3+ years of experience__ and expertise in Marketin
   
  🏢 **Data Analyst** – *Walters Consutling*, July 2024 – Present
 
-- 🔹 **Key Responsibility 1**: Brief description of what you did, what tools you used, and any relevant results.
-- 🔹 **Key Responsibility 2**: Describe another responsibility, focusing on your impact and achievements.
-- 🔹 **Key Responsibility 3**: Another bullet point with a focus on skills or outcomes you achieved.
+*At Walters Consulting, I collaborate with diverse clients across NYC to drive impactful youth substance abuse prevention initiatives. By designing and analyzing large-scale surveys targeting 1,000+ high school students, I extract key insights into youth attitudes toward substance use. Using Python and Excel, I clean, standardize, and analyze complex datasets to uncover trends that shape targeted marketing strategies and educational materials. Additionally, I evaluate the effectiveness of prevention campaigns by tracking KPIs and delivering data-driven recommendations to optimize outreach and engagement. My work bridges data analytics and social impact, ensuring that prevention efforts are both evidence-based and highly effective.*
 
 ---
 
-🏢 **Job Title** – Company Name, Month/Year – Month/Year
+🏢 **Data Science Intern** – Radical AI, June 2023 – August 2023
 
-- 🔹 **Key Responsibility 1**: Details about your role, responsibilities, and notable achievements.
-- 🔹 **Key Responsibility 2**: Add a concise point about what you contributed to the team.
-- 🔹 **Key Responsibility 3**: Any special projects, tools, or technologies you worked with.
+*As part of a dynamic 4-member team, I contributed to developing an SVM Classifier model to detect plagiarism in code submissions, achieving an 86% accuracy rate. To streamline onboarding and customer support, I built an AI-powered chatbot using the ChatGPT API, reducing manual workload by over 7 hours per week. By leveraging prompt engineering techniques, I enhanced the chatbot’s responsiveness, enabling more personalized and human-like interactions. My work combines machine learning, automation, and AI-driven solutions to improve efficiency and user experience.*
 
 ---
 
-🏢 **Job Title** – Company Name, Month/Year – Month/Year
+🏢 **Growth Marketing Specialist - Product and Data** – EverEx Overseas, April 2020 – June 2022
 
-- 🔹 **Key Responsibility 1**: Key tasks and skills demonstrated during your time in the role.
-- 🔹 **Key Responsibility 2**: Highlight your contributions or outcomes from the position.
-- 🔹 **Key Responsibility 3**: Optional additional point related to accomplishments or impact.
+*I leveraged Google Analytics to analyze website traffic, user behavior, and conversion funnels, uncovering key insights that improved user experience and marketing campaign effectiveness—resulting in a 10% increase in website conversion rates. Collaborating with cross-functional teams, I optimized Amazon Ad campaigns, reducing cost-per-click (CPC) by 20%. Using Jira, I efficiently tracked project progress and ensured seamless execution of marketing initiatives, including product launches. Additionally, I conducted in-depth market research on emerging trends in the luxury kitchenware sector, influencing the launch of three new product lines that drove a 7% revenue increase within the first quarter.*
 
 ---
 
-🏢 **Job Title** – Company Name, Month/Year – Month/Year
+🏢 **Marketing and Business Development** – LightLink Solutions, January 2020 – March 2020
 
-- 🔹 **Key Responsibility 1**: Focus on major achievements or work that helped your team or company succeed.
-- 🔹 **Key Responsibility 2**: Describe any leadership roles, collaborations, or mentoring you did.
-- 🔹 **Key Responsibility 3**: Demonstrate how you grew or developed within the role.
+*I drove lead generation efforts by executing targeted email marketing and social media campaigns, securing 20+ qualified leads and improving follow-up efficiency by 15% through detailed Excel tracking. Additionally, I led product demos and onboarding sessions for enterprise clients, proactively resolving technical and usability issues in real time—enhancing client satisfaction and boosting customer retention.*
 
 <h2> Education 🚀 </h2>
+
+- **Master of Science in Management of Technology**, *New York University* (May 2024)
+
+  Teaching Assistant for Data Science for Business
+- **Bachelor of Business Administration (Honors) in Marketing**, *Pandit Deendayal Energy University* (July 2021)
 
 <h2> Skills & Tools 🚀 </h2>
 
