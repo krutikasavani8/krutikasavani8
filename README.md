@@ -11,7 +11,7 @@ I'm a __Data Analyst__ with __3+ years of experience__ and expertise in Marketin
 </p>
 
 
-<h2>  About Me 👨‍🎓: </h2>
+<h2>  About Me 👩🏻‍💻: </h2>
 
 - 🔍 I’m a **curious problem solver** who loves turning raw data into meaningful insights. Whether it's **marketing analytics, business strategy, or data storytelling**, I thrive on making sense with numbers.  
 - 🎯 **Growth is my mantra**—I believe in constantly **learning, improving, and challenging myself** to be better every day.   
@@ -42,7 +42,7 @@ I'm a __Data Analyst__ with __3+ years of experience__ and expertise in Marketin
 
 *I drove lead generation efforts by executing targeted email marketing and social media campaigns, securing 20+ qualified leads and improving follow-up efficiency by 15% through detailed Excel tracking. Additionally, I led product demos and onboarding sessions for enterprise clients, proactively resolving technical and usability issues in real time—enhancing client satisfaction and boosting customer retention.*
 
-<h2> Education 🚀 </h2>
+<h2> Education 📚 </h2>
 
 - **Master of Science in Management of Technology**, *New York University* (May 2024)
 
